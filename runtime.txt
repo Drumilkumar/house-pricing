@@ -1,6 +1,1 @@
-fastapi
-uvicorn[standard]
-pydantic
-scikit-learn
-numpy
-joblib
+python-3.11.0
